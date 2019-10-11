@@ -1,0 +1,48 @@
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csprojResolveAssemblyReference.cache
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.frmJukeBox.resources
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.Properties.Resources.resources
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.GenerateResource.Cache
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.CoreCompileInputs.cache
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe.config
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.pdb
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.exe
+H:\Unit 19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.pdb
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe.config
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.pdb
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.frmJukeBox.resources
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.Properties.Resources.resources
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.GenerateResource.Cache
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.CoreCompileInputs.cache
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.exe
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.pdb
+E:\HND\UNIT 19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csprojAssemblyReference.cache
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe.config
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.pdb
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.frmJukeBox.resources
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.Properties.Resources.resources
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.GenerateResource.Cache
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.CoreCompileInputs.cache
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.exe
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.pdb
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe.config
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.pdb
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csprojResolveAssemblyReference.cache
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.frmJukeBox.resources
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.Properties.Resources.resources
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.GenerateResource.Cache
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.CoreCompileInputs.cache
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.exe
+H:\U19 Data structures and algorithms\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.pdb
+E:\HND\U19 DSA\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe.config
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.exe
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\bin\Debug\JukeBox Stack.pdb
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.frmJukeBox.resources
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox_Stack.Properties.Resources.resources
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.exe
+C:\Users\user\Downloads\Assignment 2\JukeBox Stack\JukeBox Stack\obj\Debug\JukeBox Stack.pdb
